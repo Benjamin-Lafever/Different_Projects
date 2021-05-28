@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xhcELTNi1HMzGV23OdPpQNWwJFIpThjZ/EQ5JUDkUcSJj8Gq33eceZpahAChRzeUpnjM2tmoHRJP7IwUDlXkAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Benjamin.Lafever\\Desktop\\Daily Coding problems\\Practice\\LinkedList_\\LinkedList_\\LinkedList_.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Benjamin.Lafever\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
