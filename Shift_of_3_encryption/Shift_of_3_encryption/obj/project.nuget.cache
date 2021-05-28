@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5o0IbQp4QrYadnhVm7HPXK76OHe75b0BYJa45T8bFR7FjkX50bLVJEZMLtLqi9Fn0Zfswle6OCQlp9Cb2l2DTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Benjamin.Lafever\\Desktop\\Daily Coding problems\\Practice\\Shift_of_3_encryption\\Shift_of_3_encryption\\Shift_of_3_encryption.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Benjamin.Lafever\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Practice\Shift_of_3_encryption\Shift_of_3_encryption\obj\Debug\netcoreapp3.1\Shift_of_3_encryption.csprojAssemblyReference.cache
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Practice\Shift_of_3_encryption\Shift_of_3_encryption\obj\Debug\netcoreapp3.1\Shift_of_3_encryption.AssemblyInfoInputs.cache
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Practice\Shift_of_3_encryption\Shift_of_3_encryption\obj\Debug\netcoreapp3.1\Shift_of_3_encryption.AssemblyInfo.cs
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Practice\Shift_of_3_encryption\Shift_of_3_encryption\obj\Debug\netcoreapp3.1\Shift_of_3_encryption.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Practice\Shift_of_3_encryption\Shift_of_3_encryption\bin\Debug\netcoreapp3.1\Shift_of_3_encryption.exe
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Practice\Shift_of_3_encryption\Shift_of_3_encryption\bin\Debug\netcoreapp3.1\Shift_of_3_encryption.deps.json
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Practice\Shift_of_3_encryption\Shift_of_3_encryption\bin\Debug\netcoreapp3.1\Shift_of_3_encryption.runtimeconfig.json
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Practice\Shift_of_3_encryption\Shift_of_3_encryption\bin\Debug\netcoreapp3.1\Shift_of_3_encryption.runtimeconfig.dev.json
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Practice\Shift_of_3_encryption\Shift_of_3_encryption\bin\Debug\netcoreapp3.1\Shift_of_3_encryption.dll
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Practice\Shift_of_3_encryption\Shift_of_3_encryption\bin\Debug\netcoreapp3.1\Shift_of_3_encryption.pdb
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Practice\Shift_of_3_encryption\Shift_of_3_encryption\obj\Debug\netcoreapp3.1\Shift_of_3_encryption.dll
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Practice\Shift_of_3_encryption\Shift_of_3_encryption\obj\Debug\netcoreapp3.1\Shift_of_3_encryption.pdb
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Practice\Shift_of_3_encryption\Shift_of_3_encryption\obj\Debug\netcoreapp3.1\Shift_of_3_encryption.genruntimeconfig.cache
