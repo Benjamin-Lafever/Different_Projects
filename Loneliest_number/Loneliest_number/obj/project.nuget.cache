@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SnPlq7JlAXnk+8E/xwCS3m/u0HFr/c08qdw3DaNV9uI0sf3ZnmfAe6ZclqWu6sAwX6nGvYkNec2WZmag0BsqRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Benjamin.Lafever\\Desktop\\Daily Coding problems\\Practice\\Loneliest_number\\Loneliest_number\\Loneliest_number\\Loneliest_number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Benjamin.Lafever\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

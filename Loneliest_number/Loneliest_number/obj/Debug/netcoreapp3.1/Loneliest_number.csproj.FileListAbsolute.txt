@@ -1,0 +1,13 @@
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Practice\Loneliest_number\Loneliest_number\Loneliest_number\bin\Debug\netcoreapp3.1\Loneliest_number.exe
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Practice\Loneliest_number\Loneliest_number\Loneliest_number\bin\Debug\netcoreapp3.1\Loneliest_number.deps.json
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Practice\Loneliest_number\Loneliest_number\Loneliest_number\bin\Debug\netcoreapp3.1\Loneliest_number.runtimeconfig.json
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Practice\Loneliest_number\Loneliest_number\Loneliest_number\bin\Debug\netcoreapp3.1\Loneliest_number.runtimeconfig.dev.json
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Practice\Loneliest_number\Loneliest_number\Loneliest_number\bin\Debug\netcoreapp3.1\Loneliest_number.dll
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Practice\Loneliest_number\Loneliest_number\Loneliest_number\bin\Debug\netcoreapp3.1\Loneliest_number.pdb
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Practice\Loneliest_number\Loneliest_number\Loneliest_number\obj\Debug\netcoreapp3.1\Loneliest_number.csprojAssemblyReference.cache
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Practice\Loneliest_number\Loneliest_number\Loneliest_number\obj\Debug\netcoreapp3.1\Loneliest_number.AssemblyInfoInputs.cache
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Practice\Loneliest_number\Loneliest_number\Loneliest_number\obj\Debug\netcoreapp3.1\Loneliest_number.AssemblyInfo.cs
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Practice\Loneliest_number\Loneliest_number\Loneliest_number\obj\Debug\netcoreapp3.1\Loneliest_number.csproj.CoreCompileInputs.cache
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Practice\Loneliest_number\Loneliest_number\Loneliest_number\obj\Debug\netcoreapp3.1\Loneliest_number.dll
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Practice\Loneliest_number\Loneliest_number\Loneliest_number\obj\Debug\netcoreapp3.1\Loneliest_number.pdb
+C:\Users\Benjamin.Lafever\Desktop\Daily Coding problems\Practice\Loneliest_number\Loneliest_number\Loneliest_number\obj\Debug\netcoreapp3.1\Loneliest_number.genruntimeconfig.cache
